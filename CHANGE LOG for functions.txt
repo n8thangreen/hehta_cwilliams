@@ -1,0 +1,3 @@
+Version of function                Changes 
+function PSAprob                   original function used in tutorial paper
+function PSAprob_v2                updated to accommodate use when none of the computational difficulties mentioned in README.txt occur
